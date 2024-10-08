@@ -1,4 +1,3 @@
-Executive Summary
 This project aims to analyze vehicle warranty data to improve the quality of parts, predict potential failures, determine the best course of action for defective parts,
 and enhance customer retention. We utilize historical warranty claims data, customer feedback, and dealer performance metrics to generate actionable insights for the company.
 
